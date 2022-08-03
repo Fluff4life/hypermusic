@@ -1,4 +1,4 @@
-to start the bot do npm i then put token in secrets, make sure to name the secret "token" if you do the steps correctly then
+to start the bot do npm install
 
 if you would like to change your bot status go to events/ready.js and change the status from there if you want to have a streaming status copy this code below,
 
