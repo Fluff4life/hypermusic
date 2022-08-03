@@ -1,0 +1,11 @@
+{
+
+    "host": "localhost.lavalink.gg.net.co.lava.link",
+    "port": 3000,
+    "password": "yourbestuptimeonline247",
+    "retryDelay": 3,
+    "secure": true,
+    "uptime": true,
+    "always-on": true
+    
+}
