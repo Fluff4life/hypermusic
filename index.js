@@ -1,14 +1,3 @@
-const express = require("express")
-const app = express()
-
-app.get("/", (req, res) => {
- res.send("Bot and website started!")
-})
-
-app.listen(3000, () => {
- console.log("The bot is on 24/7!")
-});
-
 const Discord = require('discord.js')
 
 const { Client, Collection, Intents } = require("discord.js");
